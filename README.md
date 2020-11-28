@@ -1,0 +1,2 @@
+# IV-Sem-Mini-Project
+hi guys' I'm new to programming and requires help with completing my 4th semester mini project ,What I'm trying to do is to create an online platform to sell and buy properties and plots, Which offers a bidding system in case there are multiple parties vying for the same property. Since we are employing a bidding type system any order placed will have to be put on standby for 24 hours before finalizing in order to give other buyers a chance. Kindly help me
